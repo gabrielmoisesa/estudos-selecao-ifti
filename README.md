@@ -1,4 +1,4 @@
-# Estudos Selecao IFTI <img width="50" src="./assets/ifti-logo.png" alt="Python logo" align="center"/>
+# Estudos Selecao IFTI <img height="28" src="./assets/ifti-logo.png" alt="Logo IFTI"/>
 
 Repositório pessoal de estudos para o processo seletivo do Instituto Futuro (SMN). Aqui ficam minhas soluções para os exercícios e desafios do material oficial de preparação.
 
