@@ -29,13 +29,13 @@ GO
 -- req 4.
 UPDATE [dbo].[Cliente]
     SET Telefone = '11999999999'
-    WHERE Id = 1
+    WHERE Id = 1;
 GO
 
 -- req 5.
 DELETE
     FROM [dbo].[Promocao]
-    WHERE Id = 3
+    WHERE Id = 3;
 GO
 
 -- req 6.

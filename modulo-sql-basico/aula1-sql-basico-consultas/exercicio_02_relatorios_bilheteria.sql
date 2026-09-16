@@ -50,5 +50,5 @@ SELECT  sa.Nome as NomeSala,
     FROM [dbo].[Sessao] AS se WITH(NOLOCK)
         INNER JOIN [dbo].[Sala] AS sa WITH(NOLOCK)
             ON se.IdSala = sa.Id
-    GROUP BY sa.Nome
+    GROUP BY sa.Nome;
 GO
