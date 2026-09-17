@@ -43,5 +43,6 @@ SELECT  fi.Titulo as Titulo,
         pr.Descricao as Descricao,
         pr.PercentualDesconto as PercentualDesconto
     FROM [dbo].[Promocao] AS pr WITH(NOLOCK)
-    INNER JOIN [dbo].[Filme] AS fi WITH(NOLOCK) ON fi.Id = pr.IdFilme;
+        INNER JOIN [dbo].[Filme] AS fi WITH(NOLOCK) 
+            ON fi.Id = pr.IdFilme;
 GO
