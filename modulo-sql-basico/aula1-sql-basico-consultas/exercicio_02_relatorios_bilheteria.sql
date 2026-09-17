@@ -6,7 +6,8 @@ SELECT  fi.Titulo as Titulo,
         fi.Genero as Genero,
         fi.DuracaoMinutos as DuracaoMinutos
     FROM [dbo].[Filme] AS fi WITH(NOLOCK)
-    WHERE Titulo LIKE '%o%' AND  fi.DuracaoMinutos BETWEEN 100 AND 130
+    WHERE Titulo LIKE '%o%' 
+        AND fi.DuracaoMinutos BETWEEN 100 AND 130
     ORDER BY fi.DuracaoMinutos DESC;
 GO
 
