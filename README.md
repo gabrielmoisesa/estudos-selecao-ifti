@@ -16,11 +16,11 @@ estudos-selecao-ifti/
 ├── modulo-csharp-basico/
 │   ├── aula1-logica-e-csharp-basico/
 │   │   ├── DesafioDaSemana/
-│   │   └── ExercicioN/                   # Exercicio1, Exercicio2, Exercicio3
+│   │   └── ExercicioN/                   # Exercicio1, Exercicio2, Exercicio3...
 │   ├── aula2-entrada-de-dados-e-conversoes/
-│   │   └── ExercicioN/                   # Exercicio1 a Exercicio4
+│   │   └── ExercicioN/
 │   ├── aula3-classificacoes-descontos-e-menus/
-│   │   └── ExercicioN/                   # Exercicio1 a Exercicio4
+│   │   └── ExercicioN/
 │   ├── aula4-loops-relatorios-e-estatisticas/
 │   └── aula5-colecoes-dinamicas-e-consolidacao/
 │
